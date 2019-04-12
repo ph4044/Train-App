@@ -1,0 +1,34 @@
+.buttons{
+    margin: 4px 4px 4px 4px;
+  }
+
+#container{
+  padding: 20px;
+  width:90%;
+}
+
+.gif-div{
+  float: left;
+  margin-right: 20px;
+  margin-top: 20px;
+}
+
+#animals{
+  width: 80%
+}
+
+p{
+  height: 20px;
+}
+
+.jumbotron{
+  background-color:aqua;
+  align-content: center;
+  text-align: center;
+}
+
+h1{
+  height:40px;
+  margin: auto;
+  font-size: 200px;
+}
